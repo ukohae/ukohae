@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Emmanuel 👋
 
-<!--
-**ukohae/ukohae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open-Source Projects
 
-Here are some ideas to get you started:
+- [Terraform AWS modules](https://github.com/devops-terraform-aws/modules)
+- [Selenium Automated Testing](https://github.com/devops-terraform-aws/python-automation)
+- [Deploy HelloWorld! to GCP](https://github.com/ukohae/GCP-Terraform-Helloworld)
+- [Ansible Automation](https://github.com/ukohae/aws-ansible-automation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ukohae&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ukohae&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukohae&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
