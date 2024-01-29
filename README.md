@@ -1,6 +1,6 @@
 ### Hi there, I'm Emmanuel 👋
 
-## Open-Source Projects
+## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
 
 - [Terraform AWS modules](https://github.com/devops-terraform-aws/modules)
 - [Selenium Automated Testing](https://github.com/devops-terraform-aws/python-automation)
