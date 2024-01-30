@@ -4,6 +4,7 @@
 
 - [Terraform AWS Modules](https://github.com/devops-terraform-aws/modules)
 - [Database - MySQL](https://github.com/ukohae/weather-report-mysql)
+- [Web Application - JavaScript](https://github.com/ukohae/full-stack-application)
 - [Ansible Automation](https://github.com/ukohae/aws-ansible-automation)
 - [Selenium Automated Testing - Python](https://github.com/devops-terraform-aws/python-automation)
 - [Deploy HelloWorld! to GCP - Terraform](https://github.com/devops-terraform-gcp/helloworld)
