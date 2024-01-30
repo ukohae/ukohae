@@ -3,6 +3,7 @@
 ## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
 
 - [Terraform AWS Modules](https://github.com/devops-terraform-aws/modules)
+- [Database - MySQL](https://github.com/ukohae/weather-report-mysql)
 - [Ansible Automation](https://github.com/ukohae/aws-ansible-automation)
 - [Selenium Automated Testing - Python](https://github.com/devops-terraform-aws/python-automation)
 - [Deploy HelloWorld! to GCP - Terraform](https://github.com/devops-terraform-gcp/helloworld)
