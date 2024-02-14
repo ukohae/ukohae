@@ -2,13 +2,14 @@
 
 ## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
 
-- [Terraform AWS Modules](https://github.com/devops-terraform-aws/modules)
-- [Database - MySQL](https://github.com/ukohae/weather-report-mysql)
-- [Web Application - JavaScript](https://github.com/ukohae/full-stack-application)
-- [Ansible Automation](https://github.com/ukohae/aws-ansible-automation)
-- [Selenium Automated Testing - Python](https://github.com/devops-terraform-aws/python-automation)
-- [Deploy HelloWorld! to GCP - Terraform](https://github.com/devops-terraform-gcp/helloworld)
-- [Google Work Identity Federation - Terraform](https://github.com/devops-terraform-gcp/workload-identity-federation)
+- [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules)
+- [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql)
+- [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
+- [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation)
+- [Selenium Automated Testing | Python ](https://github.com/devops-terraform-aws/python-automation)
+- [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld)
+- [Kubernetes Deployment | On-Prem ](https://github.com/ukohae/kubernetes)
+- [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation)
 
 ## 💻 Tech Stack:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
