@@ -4,6 +4,7 @@
 
 - [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules)
 - [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql)
+- [DevSecOps | AWS | Python | JavaScript | Ansible | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops)
 - [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
 - [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation)
 - [Selenium Automated Testing | Python ](https://github.com/devops-terraform-aws/python-automation)
