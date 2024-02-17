@@ -2,15 +2,24 @@
 
 ## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
 
-- [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules)  [![Pipeline](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml/badge.svg?branch=main)](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml)
-- [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql)
-- [DevSecOps | AWS | Python | JavaScript | Ansible | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops)
+- [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules) [![Pipeline](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml/badge.svg?branch=main)](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml)
+  
+- [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql) [![MySQL Deployment](https://github.com/ukohae/weather-report-mysql/actions/workflows/pipeline.yml/badge.svg)](https://github.com/ukohae/weather-report-mysql/actions/workflows/pipeline.yml)
+
+- [DevSecOps | AWS | Python | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops) [![DevSecOps Pipeline](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml/badge.svg)](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml)
+
+- [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation) [![Ansible Deployment](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml/badge.svg)](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml)
+
+- [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation) ![Deploy to GCP](https://github.com/devops-terraform-gcp/workload-identity-federation/actions/workflows/wif.yml/badge.svg)
+
+- [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld) ![Deployment](https://github.com/devops-terraform-gcp/helloworld/actions/workflows/main.yml/badge.svg)
+
 - [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
-- [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation)
+
 - [Selenium Automated Testing | Python ](https://github.com/devops-terraform-aws/python-automation)
-- [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld)
+  
 - [Kubernetes Deployment | On-Prem ](https://github.com/ukohae/kubernetes)
-- [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation)
+  
 - [Azure Policy Tag | Terraform | Azure ](https://github.com/devops-terraform-azure/azure-policy)
 
 ## 💻 Tech Stack:
