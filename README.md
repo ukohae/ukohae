@@ -6,7 +6,7 @@
   
 - [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql) [![MySQL Deployment](https://github.com/ukohae/weather-report-mysql/actions/workflows/pipeline.yml/badge.svg)](https://github.com/ukohae/weather-report-mysql/actions/workflows/pipeline.yml)
 
-- [DevSecOps | AWS | Python | JavaScript | Ansible | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops) [![DevSecOps Pipeline](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml/badge.svg)](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml)
+- [DevSecOps | AWS | Python | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops) [![DevSecOps Pipeline](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml/badge.svg)](https://github.com/devops-terraform-aws/devsecops/actions/workflows/template.yml)
 
 - [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation) [![Ansible Deployment](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml/badge.svg)](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml)
 
