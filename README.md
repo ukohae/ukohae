@@ -10,6 +10,8 @@
 
 - [Ansible Automation | AWS ](https://github.com/ukohae/aws-ansible-automation) [![Ansible Deployment](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml/badge.svg)](https://github.com/ukohae/aws-ansible-automation/actions/workflows/ansible.yml)
 
+- [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation) ![Deploy to GCP](https://github.com/devops-terraform-gcp/workload-identity-federation/actions/workflows/wif.yml/badge.svg)
+
 - [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
 
 - [Selenium Automated Testing | Python ](https://github.com/devops-terraform-aws/python-automation)
@@ -17,8 +19,6 @@
 - [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld)
   
 - [Kubernetes Deployment | On-Prem ](https://github.com/ukohae/kubernetes)
-  
-- [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation)
   
 - [Azure Policy Tag | Terraform | Azure ](https://github.com/devops-terraform-azure/azure-policy)
 
