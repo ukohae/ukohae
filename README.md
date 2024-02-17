@@ -12,11 +12,11 @@
 
 - [Google Work Identity Federation | Terraform | GCP ](https://github.com/devops-terraform-gcp/workload-identity-federation) ![Deploy to GCP](https://github.com/devops-terraform-gcp/workload-identity-federation/actions/workflows/wif.yml/badge.svg)
 
+- [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld) ![Deployment](https://github.com/devops-terraform-gcp/helloworld/actions/workflows/main.yml/badge.svg)
+
 - [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
 
 - [Selenium Automated Testing | Python ](https://github.com/devops-terraform-aws/python-automation)
-  
-- [Deploy HelloWorld! | Terraform | GCP ](https://github.com/devops-terraform-gcp/helloworld)
   
 - [Kubernetes Deployment | On-Prem ](https://github.com/ukohae/kubernetes)
   
