@@ -2,7 +2,7 @@
 
 ## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
 
-- [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules)
+- [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules)  [![Pipeline](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml/badge.svg?branch=main)](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml)
 - [MySQL Database | AWS ](https://github.com/ukohae/weather-report-mysql)
 - [DevSecOps | AWS | Python | JavaScript | Ansible | Terraform | Kubernetes | Monitoring](https://github.com/devops-terraform-aws/devsecops)
 - [Web Application | JavaScript ](https://github.com/ukohae/full-stack-application)
