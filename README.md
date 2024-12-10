@@ -1,6 +1,7 @@
 ### Hi there, I'm Emmanuel 👋
 
 ## Open-Source Projects ![](https://komarev.com/ghpvc/?username=ukohae&style=flat-square)
+- ![Kubernetes | AWS EKS](https://github.com/devops-terraform-aws/kubernetes-cluster)
 
 - [Terraform Modules | AWS ](https://github.com/devops-terraform-aws/modules) [![Pipeline](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml/badge.svg?branch=main)](https://github.com/devops-terraform-aws/modules/actions/workflows/terraform.yml)
   
